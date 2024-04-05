@@ -1,5 +1,5 @@
-# stack-overflow-question-77782523
-This is an example to answer question 77782523 at stackoverflow.com about tailwind css breakpoints for responsive design.
+# stackoverflow-question-77782523
+This is an example to answer [question 77782523](https://stackoverflow.com/questions/77782523) at stackoverflow.com about tailwind css breakpoints for responsive design.
 
 I followed the installation instructions from [Tailwind CLI in the official documentation](https://tailwindcss.com/docs/installation).
 
